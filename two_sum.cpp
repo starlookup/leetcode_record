@@ -1,6 +1,3 @@
-#include <iostream>
-#include <map>
-#include <string>
 
 vector<int> twoSum(vector<int>& nums,int target)
 {
